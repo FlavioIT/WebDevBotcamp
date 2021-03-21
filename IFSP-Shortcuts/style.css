@@ -1,0 +1,28 @@
+body {
+    background-color: #F5EFED;
+}
+
+#headerGroup {
+    text-align: center;
+    padding: 15px;
+    font-family: 'Audiowide', cursive;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+#ifsp-apps {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'Audiowide', cursive;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.image-wrapper {
+    text-align: center;
+}
